@@ -16,6 +16,12 @@ class SagraPageContent:
 
         self.fetch_sagra_content(url)
 
+    def get_sagra_content(self):
+        if self.content is None:
+            print("Empty sagra content! Something went wrong while downloading it...")
+            return None
+        return self.content
+
     def fetch_sagra_content(self,url: str = None):
         if not SagraPageContent.is_valid_url(url):
             print(f"Invalid sagra-URL given: {url}")
