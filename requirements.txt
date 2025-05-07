@@ -1,0 +1,6 @@
+# page_scraper
+requests==2.32.3
+beautifulsoup4==4.13.4
+
+# flask_app
+flask==3.1.0
