@@ -1,4 +1,4 @@
-# SAGRA-NOTIFIER
+# SAGRA-NOTIFIER 🌭🐖
 Do not miss out the sagre!
 
 The application lists all the sagre at [https://www.sagreinemilia.it/sagre_per_provincia/8/ferrara](https://www.sagreinemilia.it/sagre_per_provincia/8/ferrara) .
@@ -8,10 +8,10 @@ The application lists all the sagre at [https://www.sagreinemilia.it/sagre_per_p
 "Ok! Go here [https://sagra-info-5d63fun7iq-oa.a.run.app/](https://sagra-info-5d63fun7iq-oa.a.run.app/) "
 
 ## Technical aspects (may result boring and interesting at the same time)
-- Backend: [Flask](https://flask.palletsprojects.com/en/stable/)
+- Backend: [Flask](https://flask.palletsprojects.com/en/stable/) 🌶️
 - Frontend: plain HTML file
-- Web Server: [gunicorn](https://gunicorn.org/)
-- Containerazed application through [Docker](https://www.docker.com/)
+- Web Server: [gunicorn](https://gunicorn.org/) 🦄
+- Containerazed application through [Docker](https://www.docker.com/) 🐳
 - Hosted on [GCP](https://console.cloud.google.com/)
 
 ## "I want to develop it further!"
